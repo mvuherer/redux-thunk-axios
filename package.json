@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Mihael Vuherer",
+    "email": "mihael.vuherer@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mvuherer/redux-thunk-axios/issues"
+  },
+  "contributors": [],
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "description": "Enhance your Thunk middleware with Axios controls over API requests.",
+  "engines": {
+    "node": ">=8.2.1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/mvuherer/redux-thunk-axios",
+  "license": "MIT",
+  "keywords": [
+    "redux",
+    "thunk",
+    "axios"
+  ],
+  "name": "redux-thunk-axios",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvuherer/redux-thunk-axios.git"
+  },
+  "version": "1.0.0"
+}
